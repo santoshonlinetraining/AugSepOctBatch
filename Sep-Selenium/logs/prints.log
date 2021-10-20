@@ -1,0 +1,488 @@
+09:20:31.607 [main] DEBUG oct1_log4j.LogfileImpl - i am from debug
+09:20:31.616 [main] ERROR oct1_log4j.LogfileImpl - i am from error
+09:20:31.616 [main] INFO  oct1_log4j.LogfileImpl - i am from info
+09:20:31.616 [main] FATAL oct1_log4j.LogfileImpl - i am from fatal===
+09:24:21.037 [main] DEBUG oct1_log4j.LogfileImpl - i am from debug
+09:24:21.045 [main] ERROR oct1_log4j.LogfileImpl - i am from error
+09:24:21.046 [main] INFO  oct1_log4j.LogfileImpl - i am from info
+09:24:21.046 [main] FATAL oct1_log4j.LogfileImpl - i am from fatal===
+09:35:05.314 [main] INFO  oct1_log4j.LogfileImpl - ContactUs Test001 PASS
+09:36:44.987 [main] INFO  oct1_log4j.LogfileImpl - ContactUs Test001 PASS
+09:37:22.282 [main] ERROR oct1_log4j.LogfileImpl - Testcase failed due to text mismatch
+09:38:09.341 [main] INFO  oct1_log4j.LogfileImpl - Create Account executed successfully
+09:46:51.217 [main] INFO  oct1_log4j.LogfileImpl - This is onStart method : C:\Santosh\Automation\Workspace_new\Sep-Selenium\test-output\Suite
+09:47:10.683 [main] INFO  oct1_log4j.LogfileImpl - New Test Started : contactUsTest001
+09:47:10.685 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+09:47:10.716 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+09:47:10.726 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (5ee04035841b55723f7292321b9aff4c)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+09:47:17.974 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (5ee04035841b55723f7292321b9aff4c)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+09:47:17.974 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //h1[contains(text(),'Customer service - Contact us')]
+09:47:17.993 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //h1[contains(text(),'Customer service - Contact us')]
+09:47:18.013 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //select[@id='id_contact']
+09:47:18.028 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //select[@id='id_contact']
+09:47:18.111 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //input[@id='email']
+09:47:18.136 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //input[@id='email']
+09:47:18.221 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.id: id_order
+09:47:18.252 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.id: id_order
+09:47:18.326 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //textarea[@id='message']
+09:47:18.344 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //textarea[@id='message']
+09:47:18.428 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.name: submitMessage
+09:47:18.445 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.name: submitMessage
+09:47:18.448 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (5ee04035841b55723f7292321b9aff4c)] -> name: submitMessage]
+09:47:23.174 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (5ee04035841b55723f7292321b9aff4c)] -> name: submitMessage]
+09:47:23.175 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //p[contains(text(),'Your message has been successfully sent to our tea')]
+09:47:23.202 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //p[contains(text(),'Your message has been successfully sent to our tea')]
+09:47:23.232 [main] INFO  oct1_log4j.LogfileImpl - ContactUs Test001 PASS
+09:47:23.236 [main] INFO  oct1_log4j.LogfileImpl - Test Successfully Finished : contactUsTest001
+09:47:23.237 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+09:47:23.259 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+09:47:23.260 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (5ee04035841b55723f7292321b9aff4c)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+09:47:28.247 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (5ee04035841b55723f7292321b9aff4c)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+09:47:39.345 [main] INFO  oct1_log4j.LogfileImpl - New Test Started : contactUsTest002
+09:47:39.346 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+09:47:39.400 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+09:47:39.405 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (5ee04035841b55723f7292321b9aff4c)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+09:47:43.569 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (5ee04035841b55723f7292321b9aff4c)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+09:47:43.569 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //h1[contains(text(),'Customer service - Contact us')]
+09:47:43.593 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //h1[contains(text(),'Customer service - Contact us')]
+09:47:43.619 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //select[@id='id_contact']
+09:47:43.636 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //select[@id='id_contact']
+09:47:43.755 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //input[@id='email']
+09:47:43.779 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //input[@id='email']
+09:47:43.895 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.id: id_order
+09:47:43.911 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.id: id_order
+09:47:44.025 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.name: submitMessage
+09:47:44.042 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.name: submitMessage
+09:47:44.042 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (5ee04035841b55723f7292321b9aff4c)] -> name: submitMessage]
+09:47:49.917 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (5ee04035841b55723f7292321b9aff4c)] -> name: submitMessage]
+09:47:49.919 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //li[contains(text(),'The message cannot be blank.')]
+09:47:49.957 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //li[contains(text(),'The message cannot be blank.')]
+09:47:49.985 [main] ERROR oct1_log4j.LogfileImpl - Testcase failed due to text mismatch
+09:47:49.998 [main] ERROR oct1_log4j.LogfileImpl - Test Failed : contactUsTest002
+09:47:49.999 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+09:47:50.015 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+09:47:50.016 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (5ee04035841b55723f7292321b9aff4c)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+09:47:56.400 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (5ee04035841b55723f7292321b9aff4c)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+09:48:18.217 [main] INFO  oct1_log4j.LogfileImpl - New Test Started : CreateAccountTest001
+09:48:18.217 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.linkText: Sign in
+09:48:18.258 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.linkText: Sign in
+09:48:18.258 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (d8cf66d44a842829bde5a9310455233a)] -> link text: Sign in]
+09:48:27.757 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (d8cf66d44a842829bde5a9310455233a)] -> link text: Sign in]
+09:48:27.762 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //input[@id='email_create']
+09:48:27.784 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //input[@id='email_create']
+09:48:27.869 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/form[1]/div[1]/div[3]/button[1]/span[1]
+09:48:27.885 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/form[1]/div[1]/div[3]/button[1]/span[1]
+09:48:27.887 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (d8cf66d44a842829bde5a9310455233a)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/form[1]/div[1]/div[3]/button[1]/span[1]]
+09:48:27.958 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (d8cf66d44a842829bde5a9310455233a)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/form[1]/div[1]/div[3]/button[1]/span[1]]
+09:48:27.958 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.name: customer_firstname
+09:48:34.080 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.name: customer_firstname
+09:48:34.204 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.name: customer_lastname
+09:48:34.226 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.name: customer_lastname
+09:48:34.359 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.id: id_gender1
+09:48:34.384 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.id: id_gender1
+09:48:34.387 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (d8cf66d44a842829bde5a9310455233a)] -> id: id_gender1]
+09:48:34.484 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (d8cf66d44a842829bde5a9310455233a)] -> id: id_gender1]
+09:48:34.484 [main] INFO  oct1_log4j.LogfileImpl - Create Account executed successfully
+09:48:34.487 [main] INFO  oct1_log4j.LogfileImpl - Test Successfully Finished : CreateAccountTest001
+09:48:34.488 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+09:48:34.528 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+09:48:34.528 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (d8cf66d44a842829bde5a9310455233a)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+09:48:39.974 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (d8cf66d44a842829bde5a9310455233a)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+09:48:40.773 [main] INFO  oct1_log4j.LogfileImpl - This is onFinish method  : [ResultMap map=[[TestResult name=contactUsTest001 status=SUCCESS method=ContactUsTestcases.contactUsTest001()[pri:0, instance:testcases_sep29.ContactUsTestcases@19fb8826] output={null}], [TestResult name=CreateAccountTest001 status=SUCCESS method=CreateAccount.CreateAccountTest001()[pri:0, instance:testcases_sep29.CreateAccount@666b83a4] output={null}]]]
+09:48:40.776 [main] INFO  oct1_log4j.LogfileImpl - This is onFinish method  : [ResultMap map=[[TestResult name=contactUsTest002 status=FAILURE method=ContactUsTestcases.contactUsTest002()[pri:0, instance:testcases_sep29.ContactUsTestcases@19fb8826] output={null}]]]
+08:58:40.045 [main] DEBUG oct1_log4j.LogfileImpl - i am from debug
+08:58:40.071 [main] ERROR oct1_log4j.LogfileImpl - i am from error
+08:58:40.071 [main] INFO  oct1_log4j.LogfileImpl - i am from info
+08:58:40.071 [main] FATAL oct1_log4j.LogfileImpl - i am from fatal===
+08:58:40.086 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+08:58:40.142 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+08:58:40.149 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (dea685d75514b1cae5376e520ff85737)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+08:58:43.032 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (dea685d75514b1cae5376e520ff85737)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+08:59:54.562 [main] DEBUG oct1_log4j.LogfileImpl - i am from debug
+08:59:54.582 [main] ERROR oct1_log4j.LogfileImpl - i am from error
+08:59:54.582 [main] INFO  oct1_log4j.LogfileImpl - i am from info
+08:59:54.582 [main] FATAL oct1_log4j.LogfileImpl - i am from fatal===
+08:59:54.593 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+08:59:54.611 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+08:59:54.616 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (1440b37e6b4dc88a14f3c1bbc010c869)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+08:59:56.312 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (1440b37e6b4dc88a14f3c1bbc010c869)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+09:00:41.436 [main] DEBUG oct1_log4j.LogfileImpl - i am from debug
+09:00:41.456 [main] ERROR oct1_log4j.LogfileImpl - i am from error
+09:00:41.456 [main] INFO  oct1_log4j.LogfileImpl - i am from info
+09:00:41.456 [main] FATAL oct1_log4j.LogfileImpl - i am from fatal===
+09:00:41.466 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+09:00:41.484 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+09:00:41.489 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (bde2edccbc2b2a7929ee95935d6b3e8e)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+09:00:43.139 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (bde2edccbc2b2a7929ee95935d6b3e8e)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+09:23:46.157 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+09:23:46.202 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+09:23:46.208 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (28e70794fc65e31acdbb0a942dcc2488)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+09:23:48.088 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (28e70794fc65e31acdbb0a942dcc2488)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+09:26:06.960 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+09:26:07.008 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+09:26:07.013 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (ad73d8d0d1352ac08b45250d0f001fed)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+09:26:08.685 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (ad73d8d0d1352ac08b45250d0f001fed)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+10:03:16.790 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+10:03:16.835 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+10:03:16.842 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (cdc881ff618fb5ca9bc482e107cf28f0)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+10:03:18.525 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (cdc881ff618fb5ca9bc482e107cf28f0)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+10:03:29.134 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+10:03:29.157 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+10:03:29.158 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (9b8aa56fa03d237d79978100557a6b56)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+10:03:31.459 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (9b8aa56fa03d237d79978100557a6b56)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+10:03:34.674 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+10:03:34.693 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+10:03:34.693 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (9b8aa56fa03d237d79978100557a6b56)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+10:03:36.127 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (9b8aa56fa03d237d79978100557a6b56)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+10:03:46.150 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+10:03:46.174 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+10:03:46.175 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (665420cdbfdea9dccd9d096178552e03)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+10:03:48.013 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (665420cdbfdea9dccd9d096178552e03)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+10:03:50.895 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+10:03:50.912 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+10:03:50.912 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (665420cdbfdea9dccd9d096178552e03)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+10:03:52.207 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (665420cdbfdea9dccd9d096178552e03)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+10:07:03.321 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.linkText: Sign in
+10:07:03.360 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.linkText: Sign in
+10:07:03.366 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (de39cbf5f69deb83b462873ee5d91261)] -> link text: Sign in]
+10:07:05.613 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (de39cbf5f69deb83b462873ee5d91261)] -> link text: Sign in]
+10:07:05.613 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //input[@id='email_create']
+10:07:05.637 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //input[@id='email_create']
+10:07:05.734 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/form[1]/div[1]/div[3]/button[1]/span[1]
+10:07:05.761 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/form[1]/div[1]/div[3]/button[1]/span[1]
+10:07:05.761 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (de39cbf5f69deb83b462873ee5d91261)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/form[1]/div[1]/div[3]/button[1]/span[1]]
+10:07:05.844 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (de39cbf5f69deb83b462873ee5d91261)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/form[1]/div[1]/div[3]/button[1]/span[1]]
+10:07:05.844 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.name: customer_firstname
+10:07:07.862 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.name: customer_firstname
+10:07:07.955 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.name: customer_lastname
+10:07:07.976 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.name: customer_lastname
+10:07:08.096 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.id: id_gender1
+10:07:08.116 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.id: id_gender1
+10:07:08.117 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (de39cbf5f69deb83b462873ee5d91261)] -> id: id_gender1]
+10:07:08.185 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (de39cbf5f69deb83b462873ee5d91261)] -> id: id_gender1]
+10:07:08.194 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+10:07:08.213 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+10:07:08.214 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (de39cbf5f69deb83b462873ee5d91261)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+10:07:09.849 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (de39cbf5f69deb83b462873ee5d91261)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+10:07:20.130 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.linkText: Sign in
+10:07:20.153 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.linkText: Sign in
+10:07:20.153 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (bd5673fa9a6f2878d03d09ffb3ce4d3f)] -> link text: Sign in]
+10:07:22.606 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (bd5673fa9a6f2878d03d09ffb3ce4d3f)] -> link text: Sign in]
+10:07:22.609 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //input[@id='email']
+10:07:22.630 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //input[@id='email']
+10:07:22.714 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //input[@id='passwd']
+10:07:22.731 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //input[@id='passwd']
+10:07:22.804 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.name: SubmitLogin
+10:07:22.823 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.name: SubmitLogin
+10:07:22.824 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (bd5673fa9a6f2878d03d09ffb3ce4d3f)] -> name: SubmitLogin]
+10:07:24.943 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (bd5673fa9a6f2878d03d09ffb3ce4d3f)] -> name: SubmitLogin]
+10:07:24.943 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+10:07:24.970 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+10:07:25.020 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+10:07:25.032 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+10:07:25.032 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (bd5673fa9a6f2878d03d09ffb3ce4d3f)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+10:07:27.587 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (bd5673fa9a6f2878d03d09ffb3ce4d3f)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+10:07:30.556 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.linkText: Sign in
+10:07:30.583 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.linkText: Sign in
+10:07:30.583 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (bd5673fa9a6f2878d03d09ffb3ce4d3f)] -> link text: Sign in]
+10:07:32.664 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (bd5673fa9a6f2878d03d09ffb3ce4d3f)] -> link text: Sign in]
+10:07:32.664 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //input[@id='email']
+10:07:32.678 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //input[@id='email']
+10:07:32.752 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //input[@id='passwd']
+10:07:32.768 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //input[@id='passwd']
+10:07:32.836 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.name: SubmitLogin
+10:07:32.847 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.name: SubmitLogin
+10:07:32.848 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (bd5673fa9a6f2878d03d09ffb3ce4d3f)] -> name: SubmitLogin]
+10:07:34.866 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (bd5673fa9a6f2878d03d09ffb3ce4d3f)] -> name: SubmitLogin]
+10:07:34.870 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+10:07:34.885 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+10:07:34.885 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (bd5673fa9a6f2878d03d09ffb3ce4d3f)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+10:07:37.516 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (bd5673fa9a6f2878d03d09ffb3ce4d3f)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+10:07:48.100 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+10:07:48.121 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+10:07:48.122 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (f79327a1fc78c0936ba6e113d30c73e4)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+10:07:50.021 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (f79327a1fc78c0936ba6e113d30c73e4)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+10:07:50.023 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //h1[contains(text(),'Customer service - Contact us')]
+10:07:50.038 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //h1[contains(text(),'Customer service - Contact us')]
+10:07:50.055 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //select[@id='id_contact']
+10:07:50.072 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //select[@id='id_contact']
+10:07:50.139 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //input[@id='email']
+10:07:50.154 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //input[@id='email']
+10:07:50.230 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.id: id_order
+10:07:50.244 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.id: id_order
+10:07:50.324 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //textarea[@id='message']
+10:07:50.341 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //textarea[@id='message']
+10:07:50.418 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.name: submitMessage
+10:07:50.434 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.name: submitMessage
+10:07:50.434 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (f79327a1fc78c0936ba6e113d30c73e4)] -> name: submitMessage]
+10:07:51.540 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (f79327a1fc78c0936ba6e113d30c73e4)] -> name: submitMessage]
+10:07:51.543 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //p[contains(text(),'Your message has been successfully sent to our tea')]
+10:07:51.560 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //p[contains(text(),'Your message has been successfully sent to our tea')]
+10:07:51.574 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+10:07:51.583 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+10:07:51.586 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (f79327a1fc78c0936ba6e113d30c73e4)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+10:07:53.208 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (f79327a1fc78c0936ba6e113d30c73e4)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+10:07:55.850 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+10:07:55.871 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+10:07:55.872 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (f79327a1fc78c0936ba6e113d30c73e4)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+10:07:57.312 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (f79327a1fc78c0936ba6e113d30c73e4)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+10:07:57.312 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //h1[contains(text(),'Customer service - Contact us')]
+10:07:57.329 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //h1[contains(text(),'Customer service - Contact us')]
+10:07:57.342 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //select[@id='id_contact']
+10:07:57.358 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //select[@id='id_contact']
+10:07:57.426 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //input[@id='email']
+10:07:57.443 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //input[@id='email']
+10:07:57.517 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.id: id_order
+10:07:57.531 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.id: id_order
+10:07:57.598 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.name: submitMessage
+10:07:57.615 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.name: submitMessage
+10:07:57.615 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (f79327a1fc78c0936ba6e113d30c73e4)] -> name: submitMessage]
+10:07:58.978 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (f79327a1fc78c0936ba6e113d30c73e4)] -> name: submitMessage]
+10:07:58.978 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //li[contains(text(),'The message cannot be blank.')]
+10:07:58.993 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //li[contains(text(),'The message cannot be blank.')]
+10:07:59.020 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+10:07:59.036 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+10:07:59.037 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (f79327a1fc78c0936ba6e113d30c73e4)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+10:08:01.644 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (f79327a1fc78c0936ba6e113d30c73e4)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+08:40:42.947 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+08:40:42.987 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+08:40:42.993 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (3f6876bddac173a98107036ba922edbb)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+08:40:51.731 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (3f6876bddac173a98107036ba922edbb)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+08:40:51.731 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //h1[contains(text(),'Customer service - Contact us')]
+08:40:51.752 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //h1[contains(text(),'Customer service - Contact us')]
+08:40:51.768 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //select[@id='id_contact']
+08:40:51.787 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //select[@id='id_contact']
+08:40:51.853 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //input[@id='email']
+08:40:51.870 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //input[@id='email']
+08:40:51.953 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.id: id_order
+08:40:51.977 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.id: id_order
+08:40:52.053 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //textarea[@id='message']
+08:40:52.070 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //textarea[@id='message']
+08:40:52.149 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.name: submitMessage
+08:40:52.167 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.name: submitMessage
+08:40:52.168 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (3f6876bddac173a98107036ba922edbb)] -> name: submitMessage]
+08:41:00.673 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (3f6876bddac173a98107036ba922edbb)] -> name: submitMessage]
+08:41:00.674 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //p[contains(text(),'Your message has been successfully sent to our tea')]
+08:41:00.706 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //p[contains(text(),'Your message has been successfully sent to our tea')]
+08:41:00.737 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+08:41:00.765 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+08:41:00.766 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (3f6876bddac173a98107036ba922edbb)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+08:41:07.701 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (3f6876bddac173a98107036ba922edbb)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+08:41:23.476 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+08:41:23.515 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+08:41:23.518 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (3f6876bddac173a98107036ba922edbb)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+08:41:32.570 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (3f6876bddac173a98107036ba922edbb)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+08:41:32.570 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //h1[contains(text(),'Customer service - Contact us')]
+08:41:32.588 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //h1[contains(text(),'Customer service - Contact us')]
+08:41:32.601 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //select[@id='id_contact']
+08:41:32.616 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //select[@id='id_contact']
+08:41:32.680 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //input[@id='email']
+08:41:32.701 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //input[@id='email']
+08:41:32.766 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.id: id_order
+08:41:32.788 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.id: id_order
+08:41:32.848 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.name: submitMessage
+08:41:32.864 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.name: submitMessage
+08:41:32.864 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (3f6876bddac173a98107036ba922edbb)] -> name: submitMessage]
+08:41:39.615 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (3f6876bddac173a98107036ba922edbb)] -> name: submitMessage]
+08:41:39.616 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //li[contains(text(),'The message cannot be blank.')]
+08:41:39.640 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //li[contains(text(),'The message cannot be blank.')]
+08:41:39.672 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+08:41:39.702 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+08:41:39.703 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (3f6876bddac173a98107036ba922edbb)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+08:41:48.149 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (3f6876bddac173a98107036ba922edbb)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+08:46:02.817 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+08:46:02.860 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+08:46:02.864 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (df826592c1d3076e68035c1702aaaf19)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+08:46:12.249 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (df826592c1d3076e68035c1702aaaf19)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+08:46:12.249 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //h1[contains(text(),'Customer service - Contact us')]
+08:46:12.269 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //h1[contains(text(),'Customer service - Contact us')]
+08:46:12.289 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //select[@id='id_contact']
+08:46:12.309 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //select[@id='id_contact']
+08:46:12.370 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //input[@id='email']
+08:46:12.390 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //input[@id='email']
+08:46:12.467 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.id: id_order
+08:46:12.491 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.id: id_order
+08:46:12.574 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //textarea[@id='message']
+08:46:12.590 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //textarea[@id='message']
+08:46:12.669 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.name: submitMessage
+08:46:12.685 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.name: submitMessage
+08:46:12.685 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (df826592c1d3076e68035c1702aaaf19)] -> name: submitMessage]
+08:46:19.448 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (df826592c1d3076e68035c1702aaaf19)] -> name: submitMessage]
+08:46:19.449 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //p[contains(text(),'Your message has been successfully sent to our tea')]
+08:46:19.479 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //p[contains(text(),'Your message has been successfully sent to our tea')]
+08:46:19.509 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+08:46:19.535 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+08:46:19.536 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (df826592c1d3076e68035c1702aaaf19)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+08:46:25.266 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (df826592c1d3076e68035c1702aaaf19)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+08:49:02.475 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+08:49:12.528 [main] INFO  oct1_log4j.LogfileImpl - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]"}
+  (Session info: headless chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-8IO9O82', ip: '192.168.29.182', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 93.0.4577.15 (660fc11082ba5..., userDataDir: C:\Users\santo\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58138}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b6a51c735dfe2cd1e34b2973e7810b61
+*** Element info: {Using=xpath, value=//header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]}
+08:49:12.540 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+08:49:22.592 [main] INFO  oct1_log4j.LogfileImpl - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]"}
+  (Session info: headless chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-8IO9O82', ip: '192.168.29.182', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 93.0.4577.15 (660fc11082ba5..., userDataDir: C:\Users\santo\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58138}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b6a51c735dfe2cd1e34b2973e7810b61
+*** Element info: {Using=xpath, value=//header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]}
+08:50:20.661 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+08:50:20.730 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+08:50:20.738 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (5398d0238661a5cd1a2561ed5c54cb1f)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+08:50:28.054 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (5398d0238661a5cd1a2561ed5c54cb1f)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+08:50:28.054 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //h1[contains(text(),'Customer service - Contact us')]
+08:50:29.149 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //h1[contains(text(),'Customer service - Contact us')]
+08:50:29.166 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //select[@id='id_contact']
+08:50:29.180 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //select[@id='id_contact']
+08:50:29.235 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //input[@id='email']
+08:50:29.254 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //input[@id='email']
+08:50:29.323 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.id: id_order
+08:50:29.338 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.id: id_order
+08:50:29.428 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //textarea[@id='message']
+08:50:29.451 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //textarea[@id='message']
+08:50:29.526 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.name: submitMessage
+08:50:29.539 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.name: submitMessage
+08:50:29.539 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (5398d0238661a5cd1a2561ed5c54cb1f)] -> name: submitMessage]
+08:50:38.475 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (5398d0238661a5cd1a2561ed5c54cb1f)] -> name: submitMessage]
+08:50:38.476 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //p[contains(text(),'Your message has been successfully sent to our tea')]
+08:50:38.496 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //p[contains(text(),'Your message has been successfully sent to our tea')]
+08:50:38.512 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+08:50:38.526 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+08:50:38.526 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (5398d0238661a5cd1a2561ed5c54cb1f)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+08:50:38.883 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (5398d0238661a5cd1a2561ed5c54cb1f)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+09:26:07.358 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+09:26:07.419 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+09:26:07.427 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (78af75a6b08b848b4ef898b9eac45755)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+09:26:17.576 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (78af75a6b08b848b4ef898b9eac45755)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+09:26:17.577 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //h1[contains(text(),'Customer service - Contact us')]
+09:26:17.615 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //h1[contains(text(),'Customer service - Contact us')]
+09:26:17.636 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //select[@id='id_contact']
+09:26:17.655 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //select[@id='id_contact']
+09:26:17.727 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //input[@id='email']
+09:26:17.747 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //input[@id='email']
+09:26:17.836 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.id: id_order
+09:26:17.853 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.id: id_order
+09:26:17.936 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //textarea[@id='message']
+09:26:17.953 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //textarea[@id='message']
+09:26:18.037 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.name: submitMessage
+09:26:18.053 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.name: submitMessage
+09:26:18.053 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (78af75a6b08b848b4ef898b9eac45755)] -> name: submitMessage]
+09:26:18.458 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (78af75a6b08b848b4ef898b9eac45755)] -> name: submitMessage]
+09:26:18.459 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //p[contains(text(),'Your message has been successfully sent to our tea')]
+09:26:34.920 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //p[contains(text(),'Your message has been successfully sent to our tea')]
+09:26:34.951 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+09:26:34.976 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+09:26:34.977 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (78af75a6b08b848b4ef898b9eac45755)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+09:26:44.703 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (78af75a6b08b848b4ef898b9eac45755)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+09:26:52.360 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+09:27:08.785 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+09:27:08.788 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (78af75a6b08b848b4ef898b9eac45755)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+09:27:18.153 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (78af75a6b08b848b4ef898b9eac45755)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+09:27:18.154 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //h1[contains(text(),'Customer service - Contact us')]
+09:27:18.186 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //h1[contains(text(),'Customer service - Contact us')]
+09:27:18.212 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //select[@id='id_contact']
+09:27:18.238 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //select[@id='id_contact']
+09:27:18.350 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //input[@id='email']
+09:27:18.379 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //input[@id='email']
+09:27:18.500 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.id: id_order
+09:27:18.528 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.id: id_order
+09:27:18.647 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.name: submitMessage
+09:27:18.664 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.name: submitMessage
+09:27:18.664 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (78af75a6b08b848b4ef898b9eac45755)] -> name: submitMessage]
+09:27:28.178 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (78af75a6b08b848b4ef898b9eac45755)] -> name: submitMessage]
+09:27:28.180 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //li[contains(text(),'The message cannot be blank.')]
+09:27:28.210 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //li[contains(text(),'The message cannot be blank.')]
+09:27:28.246 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+09:27:28.277 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+09:27:28.277 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (78af75a6b08b848b4ef898b9eac45755)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+09:27:36.378 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (78af75a6b08b848b4ef898b9eac45755)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+09:34:20.165 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+09:34:30.250 [main] INFO  oct1_log4j.LogfileImpl - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-8IO9O82', ip: '192.168.29.182', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 93.0.4577.15 (660fc11082ba5..., userDataDir: C:\Users\santo\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62815}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ef41bb8b7ae59b399b7cc3d0fa699cbb
+*** Element info: {Using=xpath, value=//header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]}
+09:34:30.261 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+09:34:51.457 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+09:34:51.462 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (ef41bb8b7ae59b399b7cc3d0fa699cbb)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+09:35:00.800 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (ef41bb8b7ae59b399b7cc3d0fa699cbb)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+09:35:17.116 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+09:35:17.141 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+09:35:17.141 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (ef41bb8b7ae59b399b7cc3d0fa699cbb)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+09:35:27.095 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (ef41bb8b7ae59b399b7cc3d0fa699cbb)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+09:35:27.096 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //h1[contains(text(),'Customer service - Contact us')]
+09:35:27.126 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //h1[contains(text(),'Customer service - Contact us')]
+09:35:27.155 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //select[@id='id_contact']
+09:35:27.182 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //select[@id='id_contact']
+09:35:27.307 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //input[@id='email']
+09:35:27.339 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //input[@id='email']
+09:35:27.474 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.id: id_order
+09:35:27.504 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.id: id_order
+09:35:27.642 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.name: submitMessage
+09:35:27.671 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.name: submitMessage
+09:35:27.671 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (ef41bb8b7ae59b399b7cc3d0fa699cbb)] -> name: submitMessage]
+09:35:37.531 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (ef41bb8b7ae59b399b7cc3d0fa699cbb)] -> name: submitMessage]
+09:35:37.532 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //li[contains(text(),'The message cannot be blank.')]
+09:35:37.559 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //li[contains(text(),'The message cannot be blank.')]
+09:35:37.589 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+09:35:37.618 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+09:35:37.618 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (ef41bb8b7ae59b399b7cc3d0fa699cbb)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+09:35:44.908 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (ef41bb8b7ae59b399b7cc3d0fa699cbb)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+09:50:36.034 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+09:50:36.086 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+09:50:36.093 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (da8765e282bb65863e43529ab7ef1a77)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+09:50:44.169 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (da8765e282bb65863e43529ab7ef1a77)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+09:50:44.170 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //h1[contains(text(),'Customer service - Contact us')]
+09:50:45.133 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //h1[contains(text(),'Customer service - Contact us')]
+09:50:45.152 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //select[@id='id_contact']
+09:50:45.171 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //select[@id='id_contact']
+09:50:45.259 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //input[@id='email']
+09:50:45.289 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //input[@id='email']
+09:50:45.417 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.id: id_order
+09:50:45.447 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.id: id_order
+09:50:45.566 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //textarea[@id='message']
+09:50:45.599 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //textarea[@id='message']
+09:50:45.725 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.name: submitMessage
+09:50:45.743 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.name: submitMessage
+09:50:45.743 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (da8765e282bb65863e43529ab7ef1a77)] -> name: submitMessage]
+09:50:54.511 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (da8765e282bb65863e43529ab7ef1a77)] -> name: submitMessage]
+09:50:54.511 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //p[contains(text(),'Your message has been successfully sent to our tea')]
+09:50:54.542 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //p[contains(text(),'Your message has been successfully sent to our tea')]
+09:50:54.571 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+09:50:54.596 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+09:50:54.596 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (da8765e282bb65863e43529ab7ef1a77)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+09:51:03.642 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (da8765e282bb65863e43529ab7ef1a77)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+09:51:19.228 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+09:51:19.244 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+09:51:19.246 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (da8765e282bb65863e43529ab7ef1a77)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+09:51:27.716 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (da8765e282bb65863e43529ab7ef1a77)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+09:51:27.717 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //h1[contains(text(),'Customer service - Contact us')]
+09:51:27.742 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //h1[contains(text(),'Customer service - Contact us')]
+09:51:27.766 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //select[@id='id_contact']
+09:51:27.784 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //select[@id='id_contact']
+09:51:27.858 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //input[@id='email']
+09:51:27.881 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //input[@id='email']
+09:51:27.965 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.id: id_order
+09:51:27.982 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.id: id_order
+09:51:28.064 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.name: submitMessage
+09:51:28.091 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.name: submitMessage
+09:51:28.092 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (da8765e282bb65863e43529ab7ef1a77)] -> name: submitMessage]
+09:51:36.373 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (da8765e282bb65863e43529ab7ef1a77)] -> name: submitMessage]
+09:51:36.374 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //li[contains(text(),'The message cannot be blank.')]
+09:51:36.397 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //li[contains(text(),'The message cannot be blank.')]
+09:51:36.428 [main] INFO  oct1_log4j.LogfileImpl - Trying to find Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+09:51:36.459 [main] INFO  oct1_log4j.LogfileImpl - Found Element By : By.xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]
+09:51:36.459 [main] INFO  oct1_log4j.LogfileImpl - Trying to click on: [[ChromeDriver: chrome on WINDOWS (da8765e282bb65863e43529ab7ef1a77)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+09:51:45.394 [main] INFO  oct1_log4j.LogfileImpl - Clicked on: [[ChromeDriver: chrome on WINDOWS (da8765e282bb65863e43529ab7ef1a77)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
