@@ -30,7 +30,10 @@ public class Emp {
   public void empInfo5() {
 	  System.out.println("Emp name is Santosh");
   }
-  
+   @Test
+  public void empInfo6() {
+	  System.out.println("Emp name is Santosh");
+  }
   @BeforeClass
   public void beforeClass() {
 	  System.out.println("i am from before class");
